@@ -32,4 +32,6 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcelligoi&layout=compact&langs_count=7&theme=swift"/>
 
-
+## Contact
+<a href = "mailto:gabrielcelligoi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcelligoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
