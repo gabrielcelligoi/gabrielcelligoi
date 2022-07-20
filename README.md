@@ -22,7 +22,10 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 <a href="https://github.com/gabrielcelligoi/movie-guide" >
           <img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" width="240" >
 </a>
-          
+
+<a href="https://github.com/gabrielcelligoi/movie-guide" >
+          <img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" width="240" >
+</a>
 
 
 
