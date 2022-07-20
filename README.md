@@ -20,7 +20,7 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 ## Examples of work
 
 <a href="https://github.com/gabrielcelligoi/movie-guide" >
-          <img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" width="240" style="padding-right:20px">
+          <img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" height="240">
 </a>
 
 <a href="https://github.com/gabrielcelligoi/teamups" >
