@@ -18,7 +18,7 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 </div>
 
 ## Examples of work
-<div style="display: inline_block">
+
 <a href="https://github.com/gabrielcelligoi/movie-guide" >
           <img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" width="240" >
 </a>
@@ -28,7 +28,7 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 <a href="https://github.com/gabrielcelligoi/teamups" >
           <img src="https://github.com/gabrielcelligoi/teamups/blob/main/screenshots/homepage-banner.png?raw=true" width="240" >
 </a>
-</div>
+
 
 
 ## Stats
