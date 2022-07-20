@@ -4,6 +4,8 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
 
 ## Skills
 
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
 
