@@ -17,6 +17,10 @@ I'm a Full-Stack web developer working from Canada, and I believe people can pla
           
 </div>
 
+## Examples of work
+
+<img src="https://github.com/gabrielcelligoi/movie-guide/blob/master/screenshots/movieguide-homepage.gif?raw=true" width="512" >
+
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcelligoi&layout=compact&langs_count=7&theme=swift"/>
 
