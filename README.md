@@ -3,10 +3,10 @@
 I'm a Full-Stack web developer working from Canada, and I believe people can play several roles in their lives. I've been a student, a teacher, a son, a dad, an architect, a researcher, a podcaster, and many other Gabriels that I couldn`t list here. What are the roles you play?
 
 ## Skills
-
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div style="display: inline_block">
+          <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+          <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
           
 
 <!--
